@@ -16,7 +16,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [12.x, 14.x, 16.x]
+        node-version: [12.x, 14.x]
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
@@ -35,7 +35,7 @@ jobs:
     runs-on: ubuntu-latest
     environment: 
       name: production
-      url: https://xx.netlify.app/
+      url: https://xx2.netlify.app/
     steps:
       - name: deploy
         run: echo "deploying"

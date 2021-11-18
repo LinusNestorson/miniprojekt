@@ -1,0 +1,19 @@
+{
+  "name": "miniprojekt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinusNestorson/miniprojekt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LinusNestorson/miniprojekt/issues"
+  },
+  "homepage": "https://github.com/LinusNestorson/miniprojekt#readme"
+}
