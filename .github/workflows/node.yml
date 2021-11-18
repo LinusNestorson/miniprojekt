@@ -35,7 +35,7 @@ jobs:
     runs-on: ubuntu-latest
     environment: 
       name: production
-      url: https://xx2.netlify.app/
+      url: https://determined-noyce-59b719.netlify.app/
     steps:
       - name: deploy
         run: echo "deploying"
