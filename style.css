@@ -1,0 +1,24 @@
+.btn
+{
+padding: 0.5em 2em;
+font-size: 2rem;
+}
+
+.box
+{
+display: inline-block;
+margin: 0.5em;
+}
+
+.escape
+{
+  color: black;
+  text-decoration: none;
+  cursor:default;
+  font-size: 3rem;
+}
+
+.escape:active, .escape:hover
+{
+  text-decoration: none;
+}
